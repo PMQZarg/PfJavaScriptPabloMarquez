@@ -1,0 +1,41 @@
+{
+    "artistas": [{
+            "nombre": "Manu Cariaga",
+            "generomusical": "Urbano Cumbia Reggaeton",
+            "Composición": "Propia",
+            "cantidadCanciones": 4
+        },
+        {
+            "nombre": "Sol Rubino",
+            "generomusical": "Pop Soul",
+            "Composición": "Cover version",
+            "cantidadCanciones": 1
+        },
+        {
+            "nombre": "Kiara Martins",
+            "generomusical": "Pop country",
+            "Composición": "Cover version",
+            "cantidadCanciones": 1
+        },
+        {
+            "nombre": "Cynthia Kilian",
+            "generomusical": "Bolero",
+            "Composición": "Propia",
+            "cantidadCanciones": 7
+        },
+        {
+            "nombre": "Mariano Hirschfeld",
+            "generomusical": "Balada",
+            "Composición": "Cover version",
+            "cantidadCanciones": 1
+        },
+
+        {
+            "nombre": "Pablo Márquez",
+            "generomusical": "Pop rock balada latino",
+            "Composición": "Propia",
+            "cantidadCanciones": 12
+        }
+       
+    ]
+}
