@@ -181,7 +181,7 @@ setTimeout(() => {
 
 
 function obtenerJsonPropio() {
-  const URLJSON = "/artistas.json";
+  const URLJSON = '/artistas.json';
   fetch(URLJSON)
     .then(resp => resp.json())
     .then(data => {
