@@ -181,7 +181,7 @@ setTimeout(() => {
 
 
 function obtenerJsonPropio() {
-  const URLJSON = 'https://pmqzarg.github.io/artistas.json';
+  const URLJSON = 'https://raw.githubusercontent.com/PMQZarg/PfJavaScriptPabloMarquez/main/artistas.json';
   fetch(URLJSON)
     .then(resp => resp.json())
     .then(data => {
